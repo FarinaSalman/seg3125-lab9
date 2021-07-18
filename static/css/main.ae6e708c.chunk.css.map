@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Footer/Footer.css"],"names":[],"mappings":"AAAA,gBACI,qBAAuB,CACvB,cAAe,CACf,UAAY,CACZ,WACF","file":"main.ae6e708c.chunk.css","sourcesContent":[".Footer {\n    background-color: black;\n    font-size: 20px;\n    color: white;\n    height: 70px;\n  }"]}
